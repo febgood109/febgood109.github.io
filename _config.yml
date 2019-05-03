@@ -1,19 +1,20 @@
-title:             My wonderful website that I built myself
-email:             your-email@example.com
-description:       Insert clever description here
-author:            Your name
-baseurl:           "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:               "http://username.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
-
+title: Course Website
+subtitle: Literacy or Something Like it in Colonial Latin America
+email: f_good@ucsb.edu
+description:  This is a website that I am designing to accompany the syllabus that I have to create as part of my PhD minor qualifying exams.
+author:  Felicity Good
+baseurl: "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
+url: "http://username.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+background:
 collections:
   pages:
     output: true
     permalink: /:name
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  Felicity4Prez
+github_username:   febgood109
+facebook_username: Felicity Backenstose
 
 # Build settings
 markdown:          kramdown
