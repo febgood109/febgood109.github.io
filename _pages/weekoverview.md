@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Week Seven
-subtitle: What is Writing?
-description: Fill out later
+title: Course Overview
+description: What is Writing?
 background: '/img/posts/07.jpg'
----
 
+---
 # Readings
 
 * Walter Ong, Orality and Literacy, 1982
@@ -13,3 +12,4 @@ background: '/img/posts/07.jpg'
 
 ---
 # Images
+<img src="\img\posts\07.jpg" style="display: block; width: 600px; margin-right: auto; margin-left: auto;" />

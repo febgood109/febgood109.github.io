@@ -1,24 +1,16 @@
 ---
 layout: page
-title: What is Writing?
-description: Fill out later
+title: Introduction
+description: What is Writing?
 background: '/img/posts/07.jpg'
 ---
+# Readings
 
-# __Key Questions__
----
-#### 1. What is writing?
----
-#### 2. What are different forms of writing?
----
-#### 3. How does can writing and language function as a tool of empire?
----
----
----
----
-# __Relevant Links__
-#### [OED "writing \(n.\)"](http://www.oed.com/view/Entry/230775?rskey=qY3kCA&result=2&isAdvanced=false#eid)
-#### [OED "to write \(v.\)"](http://www.oed.com/view/Entry/230750?isAdvanced=false&result=2&rskey=Mjl7m8&)
-#### [OED "to read \(v.\)"](http://www.oed.com/view/Entry/158851?rskey=pum8PJ&result=3&isAdvanced=false#eid)
+* Patricia Seed, "Exploration and Conquest" in *A Companion to Latin American History* (2011)
+* Excerpts from Walter Ong, *Orality and Literacy* (1982)
+* Elizabeth Boone Hill, Introduction, *Writing Without Words* (1992)
 
-![GP](\img\posts\07.jpg)
+---
+# Images
+
+<img src="\img\posts\07.jpg" style="display: block; width: 500px; margin-right: auto; margin-left: auto;" />

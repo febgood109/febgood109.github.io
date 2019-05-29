@@ -1,10 +1,10 @@
-title: Course Website
-subtitle: Literacy or Something Like it in Colonial Latin America
+title: Course Overview
+subtitle: Writing, Images, and Knowledge Production in Colonial Latin America
 email: f_good@ucsb.edu
-description:  This is a website that I am designing to accompany the syllabus that I have to create as part of my PhD minor qualifying exams.
+description: This is a website that I am designing to accompany the syllabus that I have to create as part of my PhD minor qualifying exams.
 author:  Felicity Good
 baseurl: "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url: "http://username.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+url: "http://febgood109.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 background:
 collections:
   pages:
@@ -12,7 +12,7 @@ collections:
     permalink: /:name
 
 # Social Profiles
-twitter_username:  Felicity4Prez
+twitter_username:  phillisidy
 github_username:   febgood109
 facebook_username: Felicity Backenstose
 

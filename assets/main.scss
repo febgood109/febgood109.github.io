@@ -7,10 +7,14 @@
 // Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
 
 // To change the fonts for the headings across the site:
-h1, h2, h3, h4, h5 {
-//    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-//    font-size: 100px;
+h1, {
+    font-family: "Segoe Script", Arial, Helvetica, sans-serif;
+    font-size: "200px"
 //    color: #4CAF50
+}
+h2, h3, h4, h5 {
+  font-family: "Cambria", Arial, Helvetica, sans-serif;
+  font-size: "75px"
 }
 
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
