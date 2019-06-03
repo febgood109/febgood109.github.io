@@ -1,7 +1,7 @@
 ---
 layout: page # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
-title:  "Week Two"
-subtitle: "What is Literacy?"
+title:  
+subtitle:
 date:   2019-04-17 23:45:13 -0400
 author: "Felicity Good" # you can get rid of this entire line in your own blog posts, and the page will display the name of the site's owner, taken from the _config.yml file.
 background: '/img/posts/07.jpg' # notice how the image referenced is in your project's /img/posts/ folder.

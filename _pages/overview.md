@@ -17,7 +17,6 @@ background: '/img/posts/07.jpg'
 + __Friday: Field Trip__
    - *no assigned readings*
 
-}
 
 ### Readings
 
