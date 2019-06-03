@@ -27,4 +27,4 @@ background: '/img/posts/07.jpg'
 
 ---
 ### Images
-<img id="myImg" src="/img/posts/07.jpg" alt="Notary Drafts a Will" width="830" height="1195">
+<img id="myImg" src="/img/posts/07.jpg" alt="Notary Drafts a Will" width="500px">

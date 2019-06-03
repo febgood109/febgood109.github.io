@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page3
 title: Week Four
 subtitle: What is Writing?
 description: Fill out later
@@ -28,4 +28,4 @@ background: '/img/posts/07.jpg'
 ---
 ### Images
 
-<img id="myimage" src="img/posts/07.jpg" width="500" height="700" alt="Notary">
+<img id="NCBGNotary" src="img/posts/07.jpg" width="500" alt="notary">
