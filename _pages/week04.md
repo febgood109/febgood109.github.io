@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: Week Four
 subtitle: What is Writing?
 description: Fill out later
@@ -26,5 +26,7 @@ background: '/img/posts/07.jpg'
 * Elizabeth Boone Hill, Introduction, *Writing Without Words* (1992)
 
 ---
+
 ### Images
-img id="NCBGNotary" src="C:\Users\febgo\febgood109.github.io\img\posts\07.jpg" width="415" height="600">
+
+<img id="NCBGNotary" src="C:\Users\febgo\febgood109.github.io\img\posts\07.jpg" width="415" height="600">
