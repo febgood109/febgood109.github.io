@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: magnify
 title: Week Three
 subtitle: What is Writing?
 description: Fill out later
-background: '/img/posts/07.jpg'
+background: '/img/posts/NCBG_Notary.jpg'
 ---
 
 ### Weekly Overview
@@ -27,4 +27,5 @@ background: '/img/posts/07.jpg'
 ---
 ### Images
 
-<img src="\img\posts\07.jpg" style="display: block; width: 500px; margin-right: auto; margin-left: auto;" />
+<img src="\img\posts\NCBG_Notary.jpg" style="display: block; width: 500px; margin-right: auto; margin-left: auto;" />
+}

@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: accordian1
 title: Week Four
 subtitle: What is Writing?
 description: Fill out later
-background: '/img/posts/07.jpg'
+background: '/img/posts/NCBG_Notary.jpg'
 ---
 
 ### Weekly Overview
@@ -29,4 +29,4 @@ background: '/img/posts/07.jpg'
 
 ### Images
 
-<img id="NCBGNotary" src="C:\Users\febgo\febgood109.github.io\img\posts\07.jpg" width="415" height="600">
+img id="myImg" src="/NCBG_Notary.jpg" alt="Notary Drafts a Will" width="500px"

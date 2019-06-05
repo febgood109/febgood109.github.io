@@ -34,13 +34,14 @@ layout: default
   </div>
 </div>
 
+<!--magnifier-->
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {box-sizing: border-box;}
 
 .img-magnifier-container {
-  position:relative;
+  position:center;
 }
 
 .img-magnifier-glass {
@@ -49,8 +50,8 @@ layout: default
   border-radius: 50%;
   cursor: none;
   /*Set the size of the magnifier glass:*/
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 }
 </style>
 <script>
@@ -109,10 +110,9 @@ function magnify(imgID, zoom) {
   }
 }
 </script>
-</head>
 <body>
   <div class="img-magnifier-container">
-  <img id="NCBGNotary" src="C:\Users\febgo\febgood109.github.io\img\posts\07.jpg" width="415" height="600">
+  <img id="NCBGNotary" src="C:\Users\febgo\febgood109.github.io\img\posts\NCBG_Notary.jpg" width="415" height="600">
   <script>magnify("NCBGNotary", 2);</script>
 </div>
 </body>

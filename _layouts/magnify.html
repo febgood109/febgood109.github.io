@@ -19,6 +19,9 @@
   height: 100px;
 }
 </style>
+<div class="img-magnifier-container">
+  <img id="myimage" src="C:\Users\febgo\febgood109.github.io\img\posts\NCBG_Notary.jpg" width="415" height=600>
+</div>
 <script>
 function magnify(imgID, zoom) {
   var img, glass, w, h, bw;
@@ -78,20 +81,10 @@ function magnify(imgID, zoom) {
 </head>
 <body>
 
-<h1>Image Magnifier Glass</h1>
-
-<p>Mouse over the image:</p>
-
-<div class="img-magnifier-container">
-  <img id="myimage" src="img_girl.jpg" width="600" height="400">
-</div>
-
-<p>Feel free to change the strength of the magnifier glass when initiating the magnify function.</p>
-
 <script>
 /* Initiate Magnify Function
 with the id of the image, and the strength of the magnifier glass:*/
-magnify("myimage", 3);
+magnify("myimage", 2);
 </script>
 
 </body>

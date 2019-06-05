@@ -8,6 +8,15 @@ background: '/img/posts/07.jpg'
 
 ### Weekly Overview
 
+.accordion {
+  content:
+}
+
+
+
+
+
+
 + __Monday: Introduction to the Course__
     - *no assigned readings*
 + __Wednesday: Review of the Spanish Conquest__
