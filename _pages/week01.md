@@ -7,7 +7,7 @@ background: 'img/posts/Mexicanus3.jpg'
 ---
 <style>
 body {
-  background-color: antiquewhite;
+  background-color: antiquewhite
 }
 </style>
 
@@ -21,21 +21,21 @@ body {
     <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="chck1">
-      <label class="tab-label" for="chck1">Mon: Course Introduction</label>
+      <label class="tab-label" for="chck1">MON: Course Introduction</label>
       <div class="tab-content">
         No assigned readings
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Wednesday: Review of the Spanish Conquest</label>
+        <label class="tab-label" for="chck2">WED: Review of the Spanish Conquest</label>
         <div class="tab-content">
           Patricia Seed, "Exploration and Conquest" in A Companion to Latin American History, 2011.
         </div>
       </div>
       <div class="tab">
         <input type="checkbox" id="chck3">
-        <label class="tab-label" for="chck3">Fri: What is Writing?</label>
+        <label class="tab-label" for="chck3">FRI: What is Writing?</label>
         <div class="tab-content">
           Walter Ong, "Writing is a Technology?" and "What is Writing or Script? in Orality and Literacy, 80-84."<br>
           <br>

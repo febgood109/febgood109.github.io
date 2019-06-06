@@ -16,23 +16,26 @@ body {
     <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="chck1">
-      <label class="tab-label" for="chck1">Monday</label>
+      <label class="tab-label" for="chck1">MON: Colonial Spaces and The Lettered City</label>
       <div class="tab-content">
-        No assigned readings
+        Angel Rama, "The Ordered City" in The Lettered City, 1-17.
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Wednesday</label>
+        <label class="tab-label" for="chck2">WED: Reducciones</label>
         <div class="tab-content">
-          Patricia Seed, "Exploration and Conquest" in A Companion to Latin American History, 2011.
+          Joanne Rappaport and Tom Cummins, "Reorienting the Colonial Body: Space and the Imposition of Literacy," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 219-250.
         </div>
       </div>
       <div class="tab">
         <input type="checkbox" id="chck3">
-        <label class="tab-label" for="chck3">Friday</label>
+        <label class="tab-label" for="chck3">FRI: The Indigenous Lettered City</label>
         <div class="tab-content">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+        Reading Response Due:<br>
+        <br>
+        Joanne Rappaport and Tom Cummins, "The Indigenous Lettered City," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 113-128.<br>
+        <br>
         </div>
       </div>
     </div>

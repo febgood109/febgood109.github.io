@@ -51,7 +51,7 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:300px;">
+  <img src="/img/posts/Mexicanus1.JPEG" class="thumbnail" style="width:300px;">
 </a><br>
 <br>
 <a href="#img2">
@@ -73,7 +73,7 @@ body {
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
-  <img src="img/posts/Mexicanus1.jpeg">
+  <img src="img/posts/Mexicanus1.JPEG">
 </a>
 <a href="#_" class="lightbox" id="img2">
   <img src="img/posts/Mexicanus2.jpg">
