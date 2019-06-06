@@ -20,21 +20,21 @@ body {
     <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="chck1">
-      <label class="tab-label" for="chck1">Mon: Aztec and Mexica Pictography</label>
+      <label class="tab-label" for="chck1">MON: Aztec and Mexica Pictography</label>
       <div class="tab-content">
         Elizabeth Hill Boone. “Aztec Pictorial Histories: Records without Words.” in Writing Without Words, 50-76.
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Wed: Limitations of Reading? Khipus and Tocapu in the Andes</label>
+        <label class="tab-label" for="chck2">WED: Limitations of Reading? Khipus and Tocapu in the Andes</label>
         <div class="tab-content">
           Tom Cummins, "Thomas B. F “Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?" in Their Way of Writing: Scripts, Signs, and Pictographies in Pre-Columbian America, 277-317.
         </div>
       </div>
       <div class="tab">
         <input type="checkbox" id="chck3">
-        <label class="tab-label" for="chck3">Fri: Field Trip</label>
+        <label class="tab-label" for="chck3">FRI: Field Trip</label>
         <div class="tab-content">
           No assigned reading <br>
           <br>
