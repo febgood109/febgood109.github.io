@@ -1,5 +1,5 @@
 ---
-layout: magnify
+layout: page
 title: Week Three
 subtitle: What is Writing?
 description: Fill out later

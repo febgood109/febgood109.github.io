@@ -1,39 +1,61 @@
 ---
 layout: page
-title: Introduction
+title: What is Writing?
 subtitle:
 description:
-background: '/img/posts/07.jpg'
+background: '/img/posts/NCBG_Notary.jpg'
 ---
-
-### Weekly Overview
-
-.accordion {
-  content:
+<style>
+body {
+  background-color: papayawhip;
 }
-
-
-
-
-
-
-+ __Monday: Introduction to the Course__
-    - *no assigned readings*
-+ __Wednesday: Review of the Spanish Conquest__
-    - *Patricia Seed -- Exploration and Conquest (skim for review)*
-+ __Friday: Class Discussion__
-    - *Walter Ong -- Writing is a Technology*
-    - *Walter Ong -- What is Writing or Script?*
-    - *Elizabeth Hill Boone -- Introduction: Writing and Recording Knowledge*
-
-
-
-### Readings
-
-* Patricia Seed, "Exploration and Conquest" in *A Companion to Latin American History* (2011)
-* Excerpts from Walter Ong, *Orality and Literacy* (1982)
-* Elizabeth Boone Hill, Introduction, *Writing Without Words* (1992)
-
+</style>
 ---
-### Images
-<img id="myImg" src="/img/posts/07.jpg" alt="Notary Drafts a Will" width="500px">
+<div class="row">
+  <div class="col">
+    <div class="tabs">
+    <div class="tab">
+      <input type="checkbox" id="chck1">
+      <label class="tab-label" for="chck1">Monday</label>
+      <div class="tab-content">
+        No assigned readings
+      </div>
+    </div>
+      <div class="tab">
+        <input type="checkbox" id="chck2">
+        <label class="tab-label" for="chck2">Wednesday</label>
+        <div class="tab-content">
+          Patricia Seed, "Exploration and Conquest" in A Companion to Latin American History, 2011.
+        </div>
+      </div>
+      <div class="tab">
+        <input type="checkbox" id="chck3">
+        <label class="tab-label" for="chck3">Friday</label>
+        <div class="tab-content">
+          Walter Ong, "Writing is a Technology?" and "What is Writing or Script?"<br>
+          <br>
+          Elizabeth Hill Boone. “Introduction: Writing and Recording Knowledge.”
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+---
+<!-- Lightbox usage markup -->
+<h1>Images<h1>
+
+<!-- thumbnail image wrapped in a link -->
+<a href="#img1">
+  <img src="/img/posts/NCBG_Notary.jpg" class="thumbnail" style="width:200px;">
+</a>
+<a href="#img2">
+  <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+</a>
+
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="img1">
+  <img src="/img/posts/NCBG_Notary.jpg">
+</a>
+<a href="#_" class="lightbox" id="img2">
+  <img src="/img/posts/NCBG_Khipu.jpg">
+</a>
