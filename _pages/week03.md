@@ -7,7 +7,7 @@ background: '/img/posts/NCBG_Notary.jpg'
 ---
 <style>
 body {
-  background-image: url(img/posts/paper.jpg)
+  background-color: antiquewhite
 }
 </style>
 
