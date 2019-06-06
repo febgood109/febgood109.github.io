@@ -3,26 +3,34 @@
 ---
 
 @import "styles";
+@import url('https://fonts.googleapis.com/css?family=Eagle+Lake|Merienda+One&display=swap');
+
 
 // Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
 
 // To change the fonts for the headings across the site:
 h1 {
-    font-family: "Segoe Script", Times, Helvetica, sans-serif;
-    font-size: 50px
+    font-family: "Eagle Lake", cursive;
+    font-size: 25px
     //  color: #4CAF50
 }
 
 h3 {
-background-image: url("/img/posts/Border.jpg");
-border-style:outset;
-font-family: "Segoe Script", Times, Helvetica, sans-serif;
-font-size: 50px;
+font-family:"Eagle Lake", cursive;
+font-size: 75px;
 text-align:center
 //  color: #4CAF50
 }
 
-h2, h4, h5 {
+h2 {
+  font-family: "Arial", Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  color: black
+}
+
+
+ h4, h5 {
   font-family: "Times", Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-style: normal
@@ -31,11 +39,14 @@ h2, h4, h5 {
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
 header.masthead .page-heading h1, header.masthead .site-heading h1 {
-    font-family: "Segoe Script", Times, serif;
+    font-family: 'Nothing You Could Do', Times, serif;
     font-weight: normal;
     font-style: normal;
     font-size: 50px
     max-width
+}
+body {
+  background-color: lightblue;
 }
 
 
@@ -85,140 +96,142 @@ table th {
   color: white;
 }
 
-#myImg {
-  border-radius: 5px;
-  cursor: pointer;
-  transition: 0.3s;
+
+/** LIGHTBOX MARKUP **/
+
+.lightbox {
+	/** Default lightbox to hidden */
+	display: none;
+
+	/** Position and style */
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
 }
 
-#myImg:hover {opacity: 0.7;}
-
-/* The Modal (background) */
-.modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
-  left: 0;
-  top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+.lightbox img {
+	/** Pad the lightbox image */
+	max-width: 90%;
+	max-height: 80%;
+	margin-top: 2%;
 }
 
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
+.lightbox:target {
+	/** Remove default browser outline */
+	outline: none;
+
+	/** Unhide lightbox **/
+	display: block;
 }
 
-/* Caption of Modal Image */
-#caption {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
+
+$midnight: #2c3e50;
+$clouds: #ecf0f1;
+// General
+body {
+  color: $midnight;
+  background: $clouds;
+  padding: 0 1em 1em;
+}
+h1 {
+  margin: 0;
+  line-height: 2;
   text-align: center;
-  color: #ccc;
-  padding: 10px 0;
-  height: 150px;
 }
-
-/* Add Animation */
-.modal-content, #caption {
-  -webkit-animation-name: zoom;
-  -webkit-animation-duration: 0.6s;
-  animation-name: zoom;
-  animation-duration: 0.6s;
+h2 {
+  margin: 0 0 .5em;
+  font-weight: normal;
 }
-
-@-webkit-keyframes zoom {
-  from {-webkit-transform: scale(0)}
-  to {-webkit-transform: scale(1)}
-}
-
-@keyframes zoom {
-  from {transform: scale(0.1)}
-  to {transform: scale(1)}
-}
-
-/* The Close Button */
-.close {
+input {
   position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
+  opacity: 0;
+  z-index: -1;
 }
-
-.close:hover,
-.close:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/* 100% Image Width on Smaller Screens */
-@media only screen and (max-width: 700px){
-  .modal-content {
-    width: 100%;
+// Layout
+.row {
+  display:flex;
+  .col {
+    flex:1;
+    &:last-child {
+      margin-left: 1em;
+    }
   }
 }
 
-body {
-  background-color: linen;
-}
 
-* {box-sizing: border-box;}
-
-.img-magnifier-container {
-  position: relative;
+/* Accordion styles */
+.tabs {
+  border-radius: 8px;
+  border: solid;
+  overflow: hidden;
+  box-shadow: 0 4px 4px -2px rgba(0,0,0,0.5);
+  background: antiquewhite
 }
-.img-magnifier-glass {
-  position: absolute;
-  border: 3px solid #000;
-  border-radius: 50%;
-  cursor: none;
-  /*Set the size of the magnifier glass:*/
-  width: 150px;
-  height: 150px;
-}
-
-* {box-sizing: border-box;}
-
-img-zoom-container {
-  position: relative;
-}
-
-.img-zoom-lens {
-  position: absolute;
-  border: 1px solid #d4d4d4;
-  width: 40px;
-  height: 40px;
-}
-
-.img-zoom-result {
-  border: 1px solid #d4d4d4;
-  /*set the size of the result div:*/
-  width: 300px;
-  height: 300px;
-}
-.accordion {
-  background-color: antiquewhite;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 75%;
-  border: none;
+.tab {
+  width: 100%;
+  color: black;
   text-align: center;
-  outline: none;
-  font-size: 15px;
-  font-style: Times;
-  transition: 0.4s;
+  overflow: hidden;
+  &-label {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-image: url("/img/posts/paper1.jpg");
+    border-style: solid;
+    font-weight: bold;
+    font-family: 'Eagle Lake', cursive;
+    font-size: 30px;
+    cursor: pointer;
+    /* Icon */
+    &:hover {
+      background: darken(linen, 25%);
+    }
+    &::after {
+      content: "\276F";
+      width: auto;
+      height: auto;
+      text-align: center;
+      transition: all .35s;
+    }
+  }
+  &-content {
+    max-height: 0;
+    padding: 0 1em;
+    color: papayawhip;
+    background: papayawhip;
+    transition: all .35s;
+    font-size: 20px;
+    color: black;
+    font-style: serif
+  }
+  &-close {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em;
+    font-size: 0.75em;
+    background-image: url("/img/posts/paper1.jpg");
+    cursor: pointer;
+    &:hover {
+      background: darken(linen, 25%);
+    }
+  }
+}
+
+// :checked
+input:checked {
+  + .tab-label {
+    background-image: url("/img/posts/paper1.jpg");
+    &::after {
+      transform: rotate(90deg);
+    }
+  }
+  ~ .tab-content {
+    max-height: 200vh;
+    padding: 1em;
+  }
 }
