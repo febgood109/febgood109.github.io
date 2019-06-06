@@ -1,32 +1,59 @@
 ---
-layout: accordian1
-title: Week Four
-subtitle: What is Writing?
-description: Fill out later
+layout: page
+title: Monastic Murals
+subtitle:
+description:
 background: '/img/posts/NCBG_Notary.jpg'
 ---
-
-### Weekly Overview
-+ __Monday: Writing in Images: Pictographic Traditions__
-   - *Elizabeth Hill Boone -- Aztec Pictorial Histories: Records Without Words*
-
-
-+ __Wednesday: The Limitations of Reading?__
-   - *Tom Cummins -- Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?*
-
-
-+ __Friday: Field Trip__
-   - *no assigned readings*
-
-
-### Readings
-
-* Patricia Seed, "Exploration and Conquest" in *A Companion to Latin American History* (2011)
-* Excerpts from Walter Ong, *Orality and Literacy* (1982)
-* Elizabeth Boone Hill, Introduction, *Writing Without Words* (1992)
-
+<style>
+body {
+  background-color: antiquewhite;
+}
+</style>
 ---
+<div class="row">
+  <div class="col">
+    <div class="tabs">
+    <div class="tab">
+      <input type="checkbox" id="chck1">
+      <label class="tab-label" for="chck1">Monday</label>
+      <div class="tab-content">
+        No assigned readings
+      </div>
+    </div>
+      <div class="tab">
+        <input type="checkbox" id="chck2">
+        <label class="tab-label" for="chck2">Wednesday</label>
+        <div class="tab-content">
+          Patricia Seed, "Exploration and Conquest" in A Companion to Latin American History, 2011.
+        </div>
+      </div>
+      <div class="tab">
+        <input type="checkbox" id="chck3">
+        <label class="tab-label" for="chck3">Friday</label>
+        <div class="tab-content">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+---
+<!-- Lightbox usage markup -->
+<h1>Images<h1>
 
-### Images
+<!-- thumbnail image wrapped in a link -->
+<a href="#img1">
+  <img src="/img/posts/NCBG_Notary.jpg" class="thumbnail" style="width:200px;">
+</a>
+<a href="#img2">
+  <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+</a>
 
-img id="myImg" src="/NCBG_Notary.jpg" alt="Notary Drafts a Will" width="500px"
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="img1">
+  <img src="/img/posts/NCBG_Notary.jpg">
+</a>
+<a href="#_" class="lightbox" id="img2">
+  <img src="/img/posts/NCBG_Khipu.jpg">
+</a>

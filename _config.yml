@@ -1,11 +1,11 @@
 title: Writing, Material Culture, and Knowledge Production in Colonial Latin America
 subtitle:
 email: f_good@ucsb.edu
-description: This is a website that I am designing to accompany the syllabus that I have to create as part of my PhD minor qualifying exams.
+description: 
 author:  Felicity Good
 baseurl: "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
 url: "http://febgood109.github.io" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
-background:
+background: "/img/posts/Mexicanus2.jpg"
 collections:
   pages:
     output: true
