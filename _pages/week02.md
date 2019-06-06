@@ -9,27 +9,32 @@ body {
   background-color: antiquewhite;
 }
 </style>
----
+
+<!-- accordion usage markup -->
+<h5>Reading and Assignments<h5>
+<br>
+
+
 <div class="row">
   <div class="col">
     <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="chck1">
-      <label class="tab-label" for="chck1">Monday</label>
+      <label class="tab-label" for="chck1">Mon: Aztec and Mexica Pictography</label>
       <div class="tab-content">
-        Elizabeth Hill Boone. “Aztec Pictorial Histories: Records without Words.”  
+        Elizabeth Hill Boone. “Aztec Pictorial Histories: Records without Words.” in Writing Without Words, 50-76.
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">Wednesday</label>
+        <label class="tab-label" for="chck2">Wed: Limitations of Reading? Khipus and Tocapu in the Andes</label>
         <div class="tab-content">
-          Tom Cummins, "Thomas B. F “Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?"
+          Tom Cummins, "Thomas B. F “Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?" in Their Way of Writing: Scripts, Signs, and Pictographies in Pre-Columbian America, 277-317.
         </div>
       </div>
       <div class="tab">
         <input type="checkbox" id="chck3">
-        <label class="tab-label" for="chck3">Friday</label>
+        <label class="tab-label" for="chck3">Fri: Field Trip</label>
         <div class="tab-content">
           No assigned reading <br>
           <br>
@@ -39,10 +44,11 @@ body {
     </div>
   </div>
 </div>
----
-<!-- Lightbox usage markup -->
-<h1>Images<h1>
+<br>
 
+<!-- Lightbox usage markup -->
+<h5>Images<h5>
+<br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
   <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:300px;">
@@ -58,7 +64,12 @@ body {
 <br>
 <a href="#img4">
   <img src="img/posts/Tlaxcala1.jpg" class="thumbnail" style="width:300px;">
+</a><br>
+<br>
+<a href="#img5">
+  <img src="img/posts/Boturini16.jpg" class="thumbnail" style="width:300px;">
 </a>
+
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
@@ -79,3 +90,5 @@ body {
 <a href="#_" class="lightbox" id="img6">
   <img src="img/posts/Codex_Mexicanus3.jpg">
 </a>
+
+<footer>

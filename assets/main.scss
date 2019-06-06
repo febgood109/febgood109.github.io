@@ -16,9 +16,9 @@ h1 {
 }
 
 h3 {
-font-family:"Eagle Lake", cursive;
-font-size: 75px;
-text-align:center
+  font-family:"Eagle Lake", cursive;
+  font-size: 75px;
+  text-align:center
 //  color: #4CAF50
 }
 
@@ -30,10 +30,18 @@ h2 {
 }
 
 
- h4, h5 {
+h4 {
   font-family: "Times", Arial, Helvetica, sans-serif;
   font-size: 25px;
   font-style: normal
+}
+
+h5 {
+  background-image:url('img/posts/paper2.jpg');
+  font-family:"Eagle Lake", cursive;
+  font-size: 50px;
+  text-align:center
+  //  color: #4CAF50
 }
 
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
@@ -168,6 +176,7 @@ input {
 .tabs {
   border-radius: 8px;
   border: solid;
+  border-color: saddlebrown;
   overflow: hidden;
   box-shadow: 0 4px 4px -2px rgba(0,0,0,0.5);
   background: antiquewhite
@@ -175,7 +184,7 @@ input {
 .tab {
   width: 100%;
   color: black;
-  text-align: center;
+  text-align: left;
   overflow: hidden;
   &-label {
     display: flex;
@@ -183,13 +192,14 @@ input {
     padding: 1em;
     background-image: url("/img/posts/paper1.jpg");
     border-style: solid;
+    border-color: saddlebrown;
     font-weight: bold;
     font-family: 'Eagle Lake', cursive;
     font-size: 30px;
     cursor: pointer;
     /* Icon */
     &:hover {
-      background: darken(linen, 25%);
+      background: darken(antiquewhite, 10%);
     }
     &::after {
       content: "\276F";
@@ -200,14 +210,16 @@ input {
     }
   }
   &-content {
+    font-family: Times;
+    font-weight: normal;
     max-height: 0;
     padding: 0 1em;
-    color: papayawhip;
-    background: papayawhip;
+    color: linen;
+    background: linen;
     transition: all .35s;
     font-size: 20px;
     color: black;
-    font-style: serif
+    text-align: left
   }
   &-close {
     display: flex;
@@ -217,7 +229,7 @@ input {
     background-image: url("/img/posts/paper1.jpg");
     cursor: pointer;
     &:hover {
-      background: darken(linen, 25%);
+      background: darken(antiquewhite, 10%);
     }
   }
 }
