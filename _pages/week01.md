@@ -3,11 +3,11 @@ layout: page
 title: What is Writing?
 subtitle:
 description:
-background: '/img/posts/NCBG_Notary.jpg'
+background: 'img/posts/Mexicanus3.jpg'
 ---
 <style>
 body {
-  background-color: papayawhip;
+  background-color: antiquewhite;
 }
 </style>
 ---

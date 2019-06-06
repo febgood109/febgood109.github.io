@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Week Four
+title: Monastic Murals
 subtitle:
 description:
 background: '/img/posts/NCBG_Notary.jpg'
 ---
 <style>
 body {
-  background-color: papayawhip;
+  background-color: antiquewhite;
 }
 </style>
 ---

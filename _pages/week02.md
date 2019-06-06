@@ -40,27 +40,42 @@ body {
   </div>
 </div>
 ---
+<!-- Lightbox usage markup -->
+<h1>Images<h1>
 
-### Weekly Overview
-+ __Monday: Writing in Images: Pictographic Traditions__
-   - *Elizabeth Hill Boone -- Aztec Pictorial Histories: Records Without Words*
+<!-- thumbnail image wrapped in a link -->
+<a href="#img1">
+  <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:300px;">
+</a><br>
+<br>
+<a href="#img2">
+  <img src="img/posts/Mexicanus2.jpg" class="thumbnail" style="width:300px;">
+</a><br>
+<br>
+<a href="#img3">
+  <img src="img/posts/Mexicanus3.jpg" class="thumbnail" style="width:300px;">
+</a><br>
+<br>
+<a href="#img4">
+  <img src="img/posts/Tlaxcala1.jpg" class="thumbnail" style="width:300px;">
+</a>
 
-
-+ __Wednesday: The Limitations of Reading?__
-   - *Tom Cummins -- Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?*
-
-
-+ __Friday: Field Trip__
-   - *no assigned readings*
-
-
-### Readings
-
-* Patricia Seed, "Exploration and Conquest" in A Companion to Latin American History (2011)
-* Excerpts from Walter Ong, *Orality and Literacy* (1982)
-* Elizabeth Boone Hill, Introduction, *Writing Without Words* (1992)
-
----
-### Images
-
-<img src="\img\posts\07.jpg" style="display: block; width: 500px; margin-right: auto; margin-left: auto;" />
+<!-- lightbox container hidden with CSS -->
+<a href="#_" class="lightbox" id="img1">
+  <img src="img/posts/Mexicanus1.jpeg">
+</a>
+<a href="#_" class="lightbox" id="img2">
+  <img src="img/posts/Mexicanus2.jpg">
+</a>
+<a href="#_" class="lightbox" id="img3">
+  <img src="img/posts/Mexicanus3.jpg">
+</a>
+<a href="#_" class="lightbox" id="img4">
+  <img src="img/posts/Tlaxcala1.jpg">
+</a>
+<a href="#_" class="lightbox" id="img5">
+  <img src="img/posts/Boturini16.jpg">
+</a>
+<a href="#_" class="lightbox" id="img6">
+  <img src="img/posts/Codex_Mexicanus3.jpg">
+</a>
