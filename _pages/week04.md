@@ -11,6 +11,12 @@ body {
 }
 </style>
 ---
+
+
+<!-- accordion usage markup -->
+<h5>Reading and Assignments
+<br>
+<br>
 <div class="row">
   <div class="col">
     <div class="tabs">
@@ -40,21 +46,24 @@ body {
     </div>
   </div>
 </div>
----
-<!-- Lightbox usage markup -->
-<h1>Images<h1>
+<br>
 
+<!-- Lightbox usage markup -->
+<br>
+<h5>Images<h5>
+<br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/posts/NCBG_Notary.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
 <a href="#img2">
-  <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
 
 <!-- lightbox container hidden with CSS -->
-<a href="#_" class="lightbox" id="img1">
-  <img src="/img/posts/NCBG_Notary.jpg">
-</a>
+
 <a href="#_" class="lightbox" id="img2">
-  <img src="/img/posts/NCBG_Khipu.jpg">
-    <figcaption>Felipe Guaman Poma de Ayala, Nueva Coronica y Buen Gobierno, Khipukamaq, folio 374</figcaption>
-</a>
+      <img src="img/posts/Mexicanus2.jpg">
+        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img1">
+      <img src="img/posts/NCBG_Khipu.jpg">
+        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico

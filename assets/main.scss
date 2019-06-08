@@ -46,8 +46,7 @@ h5 {
 
 h6 {
   font-family: times;
-  font-size: 14;
-  font-style: normal
+  font-size: 16
 }
 
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
@@ -145,17 +144,14 @@ table th {
 	display: block;
 }
 .lightbox figcaption {
-    bottom:0;
+    bottom:10;
     position:absolute;
     color:white;
     width: 100%;
-    max-width: 500px;
-    text-align: left;
+    max-width: max-width;
+    text-align: center;
     padding-right: 10px;
-    background: rgba(0, 0, 0, 0.5);
-    font-size: 12;
-    font-family: times;
-    font-style: normal
+    background: rgba(0, 0, 0, 0.5)
   }
 
 
