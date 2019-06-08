@@ -10,6 +10,9 @@ body {
   background-color: antiquewhite
 }
 </style>
+---
+<h4>This is where the description of the week will go
+
 
 <!-- accordion usage markup -->
 <br>
@@ -51,48 +54,42 @@ body {
 <br>
 
 <!-- Lightbox usage markup -->
-<h3>Images<h3>
+<br>
+<h5>Images<h5>
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
 <a href="#img2">
-  <img src="img/posts/Mexicanus2.jpg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
 <a href="#img3">
-  <img src="img/posts/Mexicanus3.jpg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+    <img src="/img/posts/FCXII01.jpg" class="thumbnail" style="width:200px;">
 <a href="#img4">
-  <img src="img/posts/Tlaxcala1.jpg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+    <img src="/img/posts/Cholula.jpg" class="thumbnail" style="width:200px;">
 <a href="#img5">
-  <img src="img/posts/Boturini16.jpg" class="thumbnail" style="width:300px;">
-</a>
+    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
+<a href="#img6">
+    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
 
 
 <!-- lightbox container hidden with CSS -->
-<a href="#_" class="lightbox" id="img1">
-  <img src="img/posts/Mexicanus1.jpeg">
-</a>
-<a href="#_" class="lightbox" id="img2">
-  <img src="img/posts/Mexicanus2.jpg">
-</a>
-<a href="#_" class="lightbox" id="img3">
-  <img src="img/posts/Mexicanus3.jpg">
-</a>
-<a href="#_" class="lightbox" id="img4">
-  <img src="img/posts/Tlaxcala1.jpg">
-</a>
-<a href="#_" class="lightbox" id="img5">
-  <img src="img/posts/Boturini16.jpg">
-</a>
-<a href="#_" class="lightbox" id="img6">
-  <img src="img/posts/Codex_Mexicanus3.jpg">
-</a>
 
-<footer>
+<a href="#_" class="lightbox" id="img2">
+      <img src="img/posts/Mexicanus2.jpg">
+        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+        <a href="#_" class="lightbox" id="img1">
+              <img src="img/posts/NCBG_Khipu.jpg">
+                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+                <a href="#_" class="lightbox" id="img3">        
+                      <img src="img/posts/img/posts/FCXII01.jpg.jpg">
+                        <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
+
+                        <a href="#_" class="lightbox" id="img4">
+                              <img src="img/posts/Cholula.jpg">
+                                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+                                <a href="#_" class="lightbox" id="img5">
+                                      <img src="img/posts/Mexicanus2.jpg">
+                                        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
