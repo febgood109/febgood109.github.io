@@ -51,44 +51,30 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-  <img src="/img/posts/Mexicanus1.JPEG" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+  <img src="/img/posts/Mexicanus1.JPEG" class="thumbnail" style="width:200px;">
 <a href="#img2">
-  <img src="img/posts/Mexicanus2.jpg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+  <img src="img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
 <a href="#img3">
-  <img src="img/posts/Mexicanus3.jpg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+  <img src="img/posts/Mexicanus3.jpg" class="thumbnail" style="width:200px;">
 <a href="#img4">
-  <img src="img/posts/Tlaxcala1.jpg" class="thumbnail" style="width:300px;">
-</a><br>
-<br>
+  <img src="img/posts/Tlaxcala1.jpg" class="thumbnail" style="width:200px;">
 <a href="#img5">
-  <img src="img/posts/Boturini16.jpg" class="thumbnail" style="width:300px;">
+  <img src="img/posts/Boturini16.jpg" class="thumbnail" style="width:200px;">
 </a>
 
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
   <img src="img/posts/Mexicanus1.JPEG">
-</a>
+    <div id=
 <a href="#_" class="lightbox" id="img2">
-  <img src="img/posts/Mexicanus2.jpg">
-</a>
+  <img src="img/posts/Mexicanus2.jpg"><figcaption class= "caption">My Caption</span>
 <a href="#_" class="lightbox" id="img3">
-  <img src="img/posts/Mexicanus3.jpg">
-</a>
+  <img src="img/posts/Mexicanus3.jpg"><span class= "caption">My Caption</span>
 <a href="#_" class="lightbox" id="img4">
-  <img src="img/posts/Tlaxcala1.jpg">
-</a>
+  <img src="img/posts/Tlaxcala1.jpg"><span class= "caption">My Caption</span>
 <a href="#_" class="lightbox" id="img5">
-  <img src="img/posts/Boturini16.jpg">
-</a>
-<a href="#_" class="lightbox" id="img6">
-  <img src="img/posts/Codex_Mexicanus3.jpg">
-</a>
+  <img src="img/posts/Boturini16.jpg"><span class= "caption">My Caption</span>
+
 
 <footer>

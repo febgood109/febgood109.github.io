@@ -44,6 +44,12 @@ h5 {
   //  color: #4CAF50
 }
 
+h6 {
+  font-family: times;
+  font-size: 14;
+  font-style: normal
+}
+
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
 header.masthead .page-heading h1, header.masthead .site-heading h1 {
@@ -116,6 +122,8 @@ table th {
 	z-index: 999;
 	width: 100%;
 	height: 100%;
+  font-family: times;
+  font-size: 16;
 	text-align: center;
 	top: 0;
 	left: 0;
@@ -136,6 +144,19 @@ table th {
 	/** Unhide lightbox **/
 	display: block;
 }
+.lightbox figcaption {
+    bottom:0;
+    position:absolute;
+    color:white;
+    width: 100%;
+    max-width: 500px;
+    text-align: left;
+    padding-right: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 12;
+    font-family: times;
+    font-style: normal
+  }
 
 
 $midnight: #2c3e50;
@@ -246,4 +267,27 @@ input:checked {
     max-height: 200vh;
     padding: 1em;
   }
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 800px
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 25%;
+  height: auto
+}
+
+div.desc {
+  padding: 15px;
+  text-align: left;
+  font-size: 8;
+  font-family: times
 }

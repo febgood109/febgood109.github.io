@@ -20,7 +20,7 @@ body {
       <div class="tab-content">
         Jeanette Peterson, "Image/Texts in Sixteenth Century Mexican Murals (A Devil in the Details)," 1-21.<br>
         <br>
-        Joanne Rappaport and Tom Cummins, "Introduction" in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 1-22.. 
+        Joanne Rappaport and Tom Cummins, "Introduction" in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 1-22..
       </div>
     </div>
       <div class="tab">
@@ -47,10 +47,8 @@ body {
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
   <img src="/img/posts/NCBG_Notary.jpg" class="thumbnail" style="width:200px;">
-</a>
 <a href="#img2">
   <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
-</a>
 
 <!-- lightbox container hidden with CSS -->
 <a href="#_" class="lightbox" id="img1">
@@ -58,4 +56,5 @@ body {
 </a>
 <a href="#_" class="lightbox" id="img2">
   <img src="/img/posts/NCBG_Khipu.jpg">
+    <figcaption>Felipe Guaman Poma de Ayala, Nueva Coronica y Buen Gobierno, Khipukamaq, folio 374</figcaption>
 </a>

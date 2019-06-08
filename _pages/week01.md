@@ -46,4 +46,20 @@ body {
   </div>
 </div>
 
+<h5>Images<h5>
+<br>
+
+
+<div class="imgcontainer">
+  <a class="lightboximage" href="img/posts/antigua.jpg" data-lightbox="image-1" data-title="CENA:">     <img class="artworkimg" src="img/posts/antigua.jpg">
+    <span class="caption">My Caption</span>
+  </a>
+  <a class="lightboximage" href="img/posts/Boturini16.jpg" data-lightbox="image-1" data-title="CENA:">     <img class="artworkimg" src="img/posts/Boturini16.jpg">
+    <span class="caption">My Caption</span>
+  </a>
+  <a class="lightboximage" href="img/posts/antigua.jpg" data-lightbox="image-1" data-title="CENA:">     <img class="artworkimg" src="img/posts/antigua.jpg">
+    <span class="caption">My Caption</span>
+  </a>
+</div>
+
 <footer>

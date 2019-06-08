@@ -42,20 +42,3 @@ body {
 </div>
 ---
 <!-- Lightbox usage markup -->
-<h1>Images<h1>
-
-<!-- thumbnail image wrapped in a link -->
-<a href="#img1">
-  <img src="/img/posts/NCBG_Notary.jpg" class="thumbnail" style="width:200px;">
-</a>
-<a href="#img2">
-  <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
-</a>
-
-<!-- lightbox container hidden with CSS -->
-<a href="#_" class="lightbox" id="img1">
-  <img src="/img/posts/NCBG_Notary.jpg">
-</a>
-<a href="#_" class="lightbox" id="img2">
-  <img src="/img/posts/NCBG_Khipu.jpg">
-</a>
