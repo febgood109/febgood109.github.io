@@ -11,12 +11,12 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go
+<h4>This is where the description of the week will go<br>
 
 
 <!-- accordion usage markup -->
 <br>
-<h3>Reading and Assignments<h3>
+<h5>Reading and Assignments<h5>
 <br>
 
 <div class="row">
@@ -93,3 +93,7 @@ body {
                                 <a href="#_" class="lightbox" id="img5">
                                       <img src="img/posts/Mexicanus2.jpg">
                                         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+                                        <a href="#_" class="lightbox" id="img6">
+                                              <img src="img/posts/NCBG_Khipu.jpg">
+                                                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico

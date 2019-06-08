@@ -76,6 +76,7 @@ body {
       <img src="img/posts/Mexicanus2.jpg">
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
+
         <a href="#_" class="lightbox" id="img1">
               <img src="img/posts/NCBG_Khipu.jpg">
                 <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
