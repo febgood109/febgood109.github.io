@@ -69,8 +69,10 @@ body {
       <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:300px;">
 <a href="#img8">
       <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:300px;">
-
-
+<a href="#img9">
+      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:300px;">
+<a href="#img10">
+      <img src="/img/posts/Quipu3.jpg" class="thumbnail" style="width:300px;">
 <!-- lightbox container hidden with CSS -->
 
 <a href="#_" class="lightbox" id="img1">
@@ -99,5 +101,13 @@ body {
 
 <a href="#_" class="lightbox" id="img8">
       <img src="img/posts/Uncu_MoA.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img9">
+      <img src="img/posts/NCBG_Khipu.jpg">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img10">
+      <img src="img/posts/Quipu3.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
 </a>
