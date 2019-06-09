@@ -54,25 +54,29 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-    <img src="/img/posts/Boturini1.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/Boturini1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img2">
-    <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="/img/posts/Mexicanus1.JPEG" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img4">
-    <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/LienzoQ1.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/LienzoQ1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
-      <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
-      <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:150px;">
 <a href="#img9">
-      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:150px;">
 <a href="#img10">
-      <img src="/img/posts/quipu1.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/quipu1.jpg" class="thumbnail" style="width:150px;">
+<a href="#img11">
+      <img src="/img/posts/quipu3.jpg" class="thumbnail" style="width:150px;">
+<a href="#img12">
+      <img src="/img/posts/quipu2.jpg" class="thumbnail" style="width:150px;">
 
 
 <!-- lightbox container hidden with CSS -->
@@ -86,7 +90,7 @@ body {
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.JPEG">
+      <img src="/img/posts/Mexicanus1.jpeg>
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
@@ -116,4 +120,11 @@ body {
 <a href="#_" class="lightbox" id="img10">
       <img src="img/posts/quipu1.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-      </a>
+
+<a href="#_" class="lightbox" id="img11">
+      <img src="img/posts/quipu3.jpg">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img12">
+      <img src="img/posts/quipu2.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
