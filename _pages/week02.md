@@ -58,7 +58,7 @@ body {
 <a href="#img2">
     <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:300px;">
 <a href="#img3">
-    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/Mexicanus4.jpg" class="thumbnail" style="width:300px;">
 <a href="#img4">
     <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:300px;">
 <a href="#img5">
@@ -86,7 +86,7 @@ body {
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.jpeg">
+      <img src="/img/posts/Mexicanus4.jpg">
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
