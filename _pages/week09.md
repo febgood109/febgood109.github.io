@@ -25,26 +25,34 @@ body {
     <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="chck1">
-      <label class="tab-label" for="chck1">MON: Colonial Spaces and The Lettered City</label>
+      <label class="tab-label" for="chck1">MON: The Arrival of the Printing Press</label>
       <div class="tab-content">
-        Angel Rama, "The Ordered City" in The Lettered City, 1-17.
+        Irving A. Leonard. "Leonard, Irving A. “Books Follow the Conqueror.”  Books of the Brave: Being an Account of Books and of Men in the Spanish Conquest and Settlement of the Sixteenth-Century New World, 91-103.
+        Selections from: The Book: A Global History. Edited by Michael Suarez and H.R. Woudhuysen. Oxford: Oxford University Press (2013).<br>
+        <br>
+        Mosley, James. “The Technologies of Print,” 130-134.<br>
+        <br>
+        Lopez-Vidriero, Maria Luisa. “The History of the Book in the Iberian Peninsula,” 406-414.<br>
+        <br>
+        Vera, Eugenia Roldan. “The History of the Book in Latin America (Including Incas and Aztecs), 656-660.
+
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">WED: Reducciones</label>
+        <label class="tab-label" for="chck2">WED: The Florentine Codex Part One</label>
         <div class="tab-content">
-          Joanne Rappaport and Tom Cummins, "Reorienting the Colonial Body: Space and the Imposition of Literacy," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 219-250.
+          Kevin Terraciano, "Three Texts in One: Book XII of the Florentine Codex," 51-72.
         </div>
       </div>
       <div class="tab">
         <input type="checkbox" id="chck3">
-        <label class="tab-label" for="chck3">FRI: The Indigenous Lettered City</label>
+        <label class="tab-label" for="chck3">FRI: The Florentine Codex Part Two -- Discussion</label>
         <div class="tab-content">
-        Reading Response Due:<br>
+        Reading Response Due in class.<br>
         <br>
-        Joanne Rappaport and Tom Cummins, "The Indigenous Lettered City," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 113-128..<br>
-        <br>
+        Marina Garone Gravier. "Sahagún’s Codex and Book Design in the Indigenous Context.” in Colors Between Two Worlds: The Florentine Codex of Bernardino de Sahagún, 157-197.
+
         </div>
       </div>
     </div>

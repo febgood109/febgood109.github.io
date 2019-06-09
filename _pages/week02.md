@@ -12,6 +12,7 @@ body {
 ---
 <h4>This is where the description of the week will go<br>
 
+---
 <!-- accordion usage markup -->
 <h5>Reading and Assignments<h5>
 <br>
@@ -58,7 +59,7 @@ body {
 <a href="#img2">
     <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
+    <img src="img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img4">
     <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img5">
@@ -69,21 +70,20 @@ body {
       <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
       <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:150px;">
-<a href="#img9">
-      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:150px;">
 <a href="#img10">
       <img src="/img/posts/quipu1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img11">
       <img src="/img/posts/quipu3.jpg" class="thumbnail" style="width:150px;">
 <a href="#img12">
       <img src="/img/posts/quipu2.jpg" class="thumbnail" style="width:150px;">
+<a href="#img9">
+      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:150px;">
 
 
 <!-- lightbox container hidden with CSS -->
 
-<a href="#_" class="lightbox" id="img1">
+<a href="#_" class="lightbox figcaption" id="img1">
       <img src="img/posts/Boturini1.jpg">
-          <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img2">
       <img src="/img/posts/Boturini2.jpg">

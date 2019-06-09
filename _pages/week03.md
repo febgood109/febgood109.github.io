@@ -13,9 +13,9 @@ body {
 ---
 <h4>This is where the description of the week will go<br>
 
-
+---
 <!-- accordion usage markup -->
-<br>
+
 <h5>Reading and Assignments<h5>
 <br>
 

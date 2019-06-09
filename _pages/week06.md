@@ -25,26 +25,29 @@ body {
     <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="chck1">
-      <label class="tab-label" for="chck1">MON: Colonial Spaces and The Lettered City</label>
+      <label class="tab-label" for="chck1">MON: Notaries in the Lettered City</label>
       <div class="tab-content">
-        Angel Rama, "The Ordered City" in The Lettered City, 1-17.
+        Kathryn Burns, "Introduction" in Into the Archive, 1-11.<br>
+        <br>
+        Joanne Rappaport and Tom Cummins, "The King’s Quillca and the Rituality of Literacy," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 191-218.
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
-        <label class="tab-label" for="chck2">WED: Reducciones</label>
+        <label class="tab-label" for="chck2">WED: Materiality in the Archive</label>
         <div class="tab-content">
-          Joanne Rappaport and Tom Cummins, "Reorienting the Colonial Body: Space and the Imposition of Literacy," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 219-250.
+        Burns, Kathryn. “Customs” Into the Archive: Writing and Power in Colonial Peru. Durham, Duke University Press (2010): 68-87.<br>
+        <br>
+        Dean, Carolyn.  “Beyond Prescription: Notarial Doodles and Other Marks,” Word & Image 25, no. 3 (2009): 293-316.
         </div>
       </div>
       <div class="tab">
         <input type="checkbox" id="chck3">
-        <label class="tab-label" for="chck3">FRI: The Indigenous Lettered City</label>
+        <label class="tab-label" for="chck3">FRI: Making Documents</label>
         <div class="tab-content">
-        Reading Response Due:<br>
+        Homework Due: Handwritten Notes<br>
         <br>
-        Joanne Rappaport and Tom Cummins, "The Indigenous Lettered City," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 113-128..<br>
-        <br>
+        No assigned readings
         </div>
       </div>
     </div>
