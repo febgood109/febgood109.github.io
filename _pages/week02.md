@@ -72,7 +72,9 @@ body {
 <a href="#img9">
       <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:300px;">
 <a href="#img10">
-      <img src="/img/posts/Quipu3.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/quipu1.jpg" class="thumbnail" style="width:300px;">
+
+
 <!-- lightbox container hidden with CSS -->
 
 <a href="#_" class="lightbox" id="img1">
@@ -95,6 +97,10 @@ body {
       <img src="img/posts/LienzoQ2.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
+<a href="#_" class="lightbox" id="img6">
+      <img src="img/posts/LienzoQ1.jpg">
+      <figcaption><h6>16th Century<br>Mexico
+
 <a href="#_" class="lightbox" id="img7">
       <img src="img/posts/Uncu_DO.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
@@ -108,6 +114,6 @@ body {
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img10">
-      <img src="img/posts/Quipu3.jpg">
+      <img src="img/posts/quipu1.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-</a>
+      </a>
