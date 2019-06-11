@@ -15,7 +15,7 @@ body {
 
 ---
 <!-- accordion usage markup -->
-
+<br>
 <h5>Reading and Assignments<h5>
 <br>
 

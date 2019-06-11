@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Writing?
+title: Printed Books and Painted Manuscripts
 subtitle:
 description:
 background: 'img/posts/Mexicanus3.jpg'

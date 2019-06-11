@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Writing?
+title: Mapping the New World
 subtitle:
 description:
 background: 'img/posts/Mexicanus3.jpg'

@@ -32,7 +32,7 @@ body {
         <input type="checkbox" id="chck2">
         <label class="tab-label" for="chck2">WED: Limitations of Reading? Khipus and Tocapu in the Andes</label>
         <div class="tab-content">
-          Tom Cummins, "Thomas B. F “Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?" in Their Way of Writing: Scripts, Signs, and Pictographies in Pre-Columbian America, 277-317.
+          Tom Cummins, “Tocapu: What Is It, What Does it Do, and Why is it Not a Knot?" in Their Way of Writing: Scripts, Signs, and Pictographies in Pre-Columbian America, 277-317.
         </div>
       </div>
       <div class="tab">
@@ -59,7 +59,7 @@ body {
 <a href="#img2">
     <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img4">
     <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img5">
@@ -90,11 +90,11 @@ body {
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.jpeg>
+      <img src="/img/posts/Mexicanus1.jpeg">
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
-      <img src="img/posts/Mexicanus1617.jpeg">
+      <img src="/img/posts/Mexicanus1617.jpeg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">

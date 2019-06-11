@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Writing?
+title: The Nueva Corónica y Buen Gobierno of Felipe Guaman Poma de Ayala
 subtitle:
 description:
 background: 'img/posts/Mexicanus3.jpg'
@@ -57,7 +57,7 @@ body {
 <a href="#img2">
     <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img4">
     <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
 <a href="#img5">

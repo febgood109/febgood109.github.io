@@ -43,7 +43,7 @@ body {
         <div class="tab-content">
         Reading Response Due:<br>
         <br>
-        Joanne Rappaport and Tom Cummins, "The Indigenous Lettered City," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 113-128..<br>
+        Joanne Rappaport and Tom Cummins, "The Indigenous Lettered City," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 113-128.<br>
         <br>
         </div>
       </div>
