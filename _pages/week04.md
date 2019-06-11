@@ -69,6 +69,8 @@ body {
     <img src="/img/posts/Huejot.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
       <img src="/img/posts/Huejot12.jpg" class="thumbnail" style="width:150px;">
+<a href="#img16">
+      <img src="/img/posts/ValCourtyard.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
       <img src="/img/posts/Malinalco1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img9">
@@ -85,6 +87,7 @@ body {
       <img src="/img/posts/AndaHeavan.png" class="thumbnail" style="width:150px;">
 <a href="#img15">
       <img src="/img/posts/AndaPortal.png" class="thumbnail" style="width:150px;">
+
 
 
 <!-- lightbox container hidden with CSS -->
@@ -147,4 +150,8 @@ body {
 
 <a href="#_" class="lightbox" id="img15">
         <img src="img/posts/AndaPortal.png">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img16">
+        <img src="img/posts/ValCourtyard.jpg">
         <figcaption><Codex Mexicanus<br>16th Century<br>Mexico

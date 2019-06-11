@@ -3,7 +3,7 @@ layout: page
 title: Orality and Writing
 subtitle:
 description:
-background: '/img/posts/NCBG_Notary.jpg'
+background: '/img/posts/TestCat1.png'
 ---
 <style>
 body {
@@ -86,6 +86,10 @@ body {
       <img src="/img/posts/ValAlph.jpg" class="thumbnail" style="width:150px;">
 <a href="#img14">
       <img src="/img/posts/ValPreach.jpg" class="thumbnail" style="width:150px;">
+<a href="#img15">
+      <img src="/img/posts/TestCat1.png" class="thumbnail" style="width:150px;">
+<a href="#img16">
+      <img src="/img/posts/TestCat2.png" class="thumbnail" style="width:150px;">
 
 
 <!-- lightbox container hidden with CSS -->
@@ -144,4 +148,12 @@ body {
 
 <a href="#_" class="lightbox" id="img14">
         <img src="img/posts/ValPreach.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img15">
+        <img src="img/posts/TestCat1.png">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img16">
+        <img src="img/posts/TestCat2.png">
         <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
