@@ -82,12 +82,12 @@ body {
 
 <!-- lightbox container hidden with CSS -->
 
-<a href="#_" class="lightbox figcaption" id="img1">
+<a href="#_" class="lightbox" id="img1">
       <img src="img/posts/Boturini1.jpg">
 
 <a href="#_" class="lightbox" id="img2">
       <img src="/img/posts/Boturini2.jpg">
-        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+      Codex Boturni, folio 2
 
 <a href="#_" class="lightbox" id="img3">        
       <img src="/img/posts/Mexicanus_Azt.jpeg">

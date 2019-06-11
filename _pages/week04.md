@@ -3,7 +3,7 @@ layout: page
 title: Monastic Murals
 subtitle:
 description:
-background: '/img/posts/NCBG_Notary.jpg'
+background: '/img/posts/ActoHellMouth.jpg'
 ---
 <style>
 body {
@@ -56,50 +56,95 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-    <img src="/img/posts/Boturini1.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/ActoChapel.jpg" class="thumbnail" style="width:150px;">
 <a href="#img2">
-    <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/ActoHellMouth.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/ActoChapel2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img4">
-    <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/ActoAE.jpg" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/ActoInterior.jpg" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/LienzoQ1.jpg" class="thumbnail" style="width:300px;">
+    <img src="/img/posts/Huejot.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
-      <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/Huejot12.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
-      <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:300px;">
+      <img src="/img/posts/Malinalco1.jpg" class="thumbnail" style="width:150px;">
+<a href="#img9">
+      <img src="/img/posts/Malinalco2.jpg" class="thumbnail" style="width:150px;">  
+<a href="#img10">
+      <img src="/img/posts/Malinalco3.jpg" class="thumbnail" style="width:150px;">
+<a href="#img11">
+      <img src="/img/posts/MalinalcoDeath.jpg" class="thumbnail" style="width:150px;">
+<a href="#img12">
+      <img src="/img/posts/Huaro.png" class="thumbnail" style="width:150px;">
+<a href="#img13">
+      <img src="/img/posts/AndaHell.png" class="thumbnail" style="width:150px;">
+<a href="#img14">
+      <img src="/img/posts/AndaHeavan.png" class="thumbnail" style="width:150px;">
+<a href="#img15">
+      <img src="/img/posts/AndaPortal.png" class="thumbnail" style="width:150px;">
 
 
 <!-- lightbox container hidden with CSS -->
 
 <a href="#_" class="lightbox" id="img1">
-      <img src="img/posts/Boturini1.jpg">
+      <img src="/img/posts/ActoChapel.jpg">
           <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img2">
-      <img src="/img/posts/Boturini2.jpg">
+      <img src="/img/posts/ActoHellMouth.jpg">
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.jpeg">
+      <img src="/img/posts/ActoChapel2.jpg">
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
-      <img src="img/posts/Mexicanus1617.jpeg">
+      <img src="img/posts/ActoAE.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">
-      <img src="img/posts/LienzoQ2.jpg">
+      <img src="img/posts/ActoInterior.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
-<a href="#_" class="lightbox" id="img7">
-      <img src="img/posts/Uncu_DO.jpg">
+<a href="#_" class="lightbox" id="img6">
+      <img src="img/posts/Huejot.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-<a href="#_" class="lightbox" id="img8">
-      <img src="img/posts/Uncu_MoA.jpg">
+<a href="#_" class="lightbox" id="img7">
+      <img src="img/posts/Huejot12.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-</a>
+
+<a href="#_" class="lightbox" id="img8">
+      <img src="img/posts/Malinalco1.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img9">
+      <img src="img/posts/Malinalco2.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img10">
+        <img src="img/posts/Malinalco3.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img11">
+        <img src="img/posts/MalinalcoDeath.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img12">
+        <img src="img/posts/Huaro.png">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img13">
+        <img src="img/posts/AndaHell.png">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img14">
+        <img src="img/posts/AndaHeavan.png">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img15">
+        <img src="img/posts/AndaPortal.png">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico

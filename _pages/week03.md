@@ -59,50 +59,89 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-    <img src="/img/posts/Boturini1.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/CodexFM1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img2">
-    <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/CodexFMOpen.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="/img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/CodexFMOpen2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img4">
-    <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Aubin1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/AubinPere.jpg" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/LienzoQ1.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/BorgiaOpen.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
-      <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/TolChiOpen.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
-      <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/MendozaFolio2.jpg" class="thumbnail" style="width:150px;">
+<a href="#img9">
+      <img src="/img/posts/MendozaOpen.jpg" class="thumbnail" style="width:150px;">  
+<a href="#img10">
+      <img src="/img/posts/Mendoza69r.jpg" class="thumbnail" style="width:150px;">
+<a href="#img11">
+      <img src="/img/posts/Monte1.jpg" class="thumbnail" style="width:150px;">
+<a href="#img12">
+      <img src="/img/posts/ValCourtyard.jpg" class="thumbnail" style="width:150px;">
+<a href="#img13">
+      <img src="/img/posts/ValAlph.jpg" class="thumbnail" style="width:150px;">
+<a href="#img14">
+      <img src="/img/posts/ValPreach.jpg" class="thumbnail" style="width:150px;">
 
 
 <!-- lightbox container hidden with CSS -->
 
 <a href="#_" class="lightbox" id="img1">
-      <img src="img/posts/Boturini1.jpg">
+      <img src="/img/posts/CodexFM1.jpg">
           <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img2">
-      <img src="/img/posts/Boturini2.jpg">
+      <img src="/img/posts/CodexFMOpen.jpg">
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.jpeg">
+      <img src="/img/posts/CodexFMOpen2.jpg">
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
-      <img src="img/posts/Mexicanus1617.jpeg">
+      <img src="img/posts/Aubin1.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">
-      <img src="img/posts/LienzoQ2.jpg">
+      <img src="img/posts/AubinPere.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
-<a href="#_" class="lightbox" id="img7">
-      <img src="img/posts/Uncu_DO.jpg">
+<a href="#_" class="lightbox" id="img6">
+      <img src="img/posts/BorgiaOpen.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-<a href="#_" class="lightbox" id="img8">
-      <img src="img/posts/Uncu_MoA.jpg">
+<a href="#_" class="lightbox" id="img7">
+      <img src="img/posts/TolChiOpen.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-</a>
+
+<a href="#_" class="lightbox" id="img8">
+      <img src="img/posts/MendozaFolio2.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img9">
+      <img src="img/posts/MendozaOpen.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img10">
+        <img src="img/posts/Mendoza69r.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img11">
+        <img src="img/posts/Monte1.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img12">
+        <img src="img/posts/ValCourtyard.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img13">
+        <img src="img/posts/ValAlph.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img14">
+        <img src="img/posts/ValPreach.jpg">
+        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico

@@ -47,5 +47,3 @@ body {
     </div>
   </div>
 </div>
-
-<footer>
