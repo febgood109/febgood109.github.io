@@ -1,9 +1,9 @@
 ---
 layout: page
-title: What is Writing?
+title: Materiality in the Archive
 subtitle:
 description:
-background: 'img/posts/Mexicanus3.jpg'
+background: 'img/posts/Archive1.jpg'
 ---
 <style>
 body {
@@ -60,46 +60,78 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/Archive1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img2">
-    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/CoboDoc1.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="/img/posts/FCXII01.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/CoboDoc2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img4">
-    <img src="/img/posts/Cholula.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/Doodle1.png" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/Doodle2.png" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/Doodle3.png" class="thumbnail" style="width:150px;">
+<a href="#img7">
+      <img src="/img/posts/Doodle4.png" class="thumbnail" style="width:150px;">
+<a href="#img8">
+      <img src="/img/posts/Doodle5.png" class="thumbnail" style="width:150px;">
+<a href="#img9">
+      <img src="/img/posts/CoboBound.jpg" class="thumbnail" style="width:150px;">
+<a href="#img10">
+      <img src="/img/posts/NCBG_Notary.jpg" class="thumbnail" style="width:150px;">
+<a href="#img9">
+      <img src="/img/posts/NCBG_NotaryTribute.jpg" class="thumbnail" style="width:150px;">
+<a href="#img10">
+      <img src="/img/posts/NCBO_CorSec.jpg" class="thumbnail" style="width:150px;">
+
 
 
 <!-- lightbox container hidden with CSS -->
 
+<a href="#_" class="lightbox" id="img1">
+      <img src="/img/posts/Archive1.jpg">
+          <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
 <a href="#_" class="lightbox" id="img2">
-      <img src="img/posts/Mexicanus2.jpg">
+      <img src="/img/posts/CoboDoc1.jpg">
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
+<a href="#_" class="lightbox" id="img3">        
+      <img src="/img/posts/CoboDoc2.jpg">
+      <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
-        <a href="#_" class="lightbox" id="img1">
-              <img src="img/posts/NCBG_Khipu.jpg">
-                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img4">
+      <img src="img/posts/Doodle1.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-                <a href="#_" class="lightbox" id="img3">        
-                      <img src="img/posts/img/posts/FCXII01.jpg.jpg">
-                        <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img5">
+      <img src="img/posts/Doodle2.png">
+      <figcaption><h6>16th Century<br>Mexico
 
-                        <a href="#_" class="lightbox" id="img4">
-                              <img src="img/posts/Cholula.jpg">
-                                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img6">
+      <img src="img/posts/Doodle3.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-                                <a href="#_" class="lightbox" id="img5">
-                                      <img src="img/posts/Mexicanus2.jpg">
-                                        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img7">
+      <img src="img/posts/Doodle4.png">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
 
-                                        <a href="#_" class="lightbox" id="img6">
-                                              <img src="img/posts/NCBG_Khipu.jpg">
-                                                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
-</a>
-<br>
+<a href="#_" class="lightbox" id="img8">
+      <img src="img/posts/Doodle5.png">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
 
-<footer>
+<a href="#_" class="lightbox" id="img9">
+      <img src="img/posts/CoboBound.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img10">
+      <img src="img/posts/NCBG_Notary.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img11">
+      <img src="img/posts/NCBG_NotaryTribute.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
+
+<a href="#_" class="lightbox" id="img12">
+      <img src="img/posts/NCBG_CorSec.jpg">
+      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico

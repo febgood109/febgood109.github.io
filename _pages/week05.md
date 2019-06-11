@@ -65,29 +65,13 @@ body {
 <a href="#img4">
     <img src="/img/posts/Atlatlauca.jpg" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/ActoInterior.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Durer.jpg" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/Huejot.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/LandMap.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
-      <img src="/img/posts/Huejot12.jpg" class="thumbnail" style="width:150px;">
-<a href="#img16">
-      <img src="/img/posts/ValCourtyard.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/Tultepec.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
-      <img src="/img/posts/Malinalco1.jpg" class="thumbnail" style="width:150px;">
-<a href="#img9">
-      <img src="/img/posts/Malinalco2.jpg" class="thumbnail" style="width:150px;">  
-<a href="#img10">
-      <img src="/img/posts/Malinalco3.jpg" class="thumbnail" style="width:150px;">
-<a href="#img11">
-      <img src="/img/posts/MalinalcoDeath.jpg" class="thumbnail" style="width:150px;">
-<a href="#img12">
-      <img src="/img/posts/Huaro.png" class="thumbnail" style="width:150px;">
-<a href="#img13">
-      <img src="/img/posts/AndaHell.png" class="thumbnail" style="width:150px;">
-<a href="#img14">
-      <img src="/img/posts/AndaHeavan.png" class="thumbnail" style="width:150px;">
-<a href="#img15">
-      <img src="/img/posts/AndaPortal.png" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/Cempoala.jpg" class="thumbnail" style="width:150px;">
 
 
 
@@ -110,49 +94,17 @@ body {
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">
-      <img src="img/posts/ActoInterior.jpg">
+      <img src="img/posts/Durer.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img6">
-      <img src="img/posts/Huejot.jpg">
+      <img src="img/posts/LandMap.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img7">
-      <img src="img/posts/Huejot12.jpg">
+      <img src="img/posts/Tultepec.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img8">
-      <img src="img/posts/Malinalco1.jpg">
+      <img src="img/posts/Cempoala.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img9">
-      <img src="img/posts/Malinalco2.jpg">
-      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img10">
-        <img src="img/posts/Malinalco3.jpg">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img11">
-        <img src="img/posts/MalinalcoDeath.jpg">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img12">
-        <img src="img/posts/Huaro.png">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img13">
-        <img src="img/posts/AndaHell.png">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img14">
-        <img src="img/posts/AndaHeavan.png">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img15">
-        <img src="img/posts/AndaPortal.png">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img16">
-        <img src="img/posts/ValCourtyard.jpg">
-        <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
