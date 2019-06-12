@@ -11,12 +11,12 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>Picking up on themes presented in Cummins article, Ananda Cohen Suarez writes on mural cycles in the Church of Andahuaylillas outside Cuzco. Her focus is on the iconographic relationship between the murals and prints created by Flemish engraver, Hieronymus Weirix. However, her larger arguments centers on the ability of these murals to be “read” in the context of performance and religious practice in seventeenth-century Cuzco. The murals include (among many other features) alphabetic keys that aided in explaining the depicted events to parishioners. In a complementary text, Jeanette Peterson argues that mural cycles preserved within monasteries should be read as visual texts that reveal a complex network of indigenous and mendicant sources and creators. By considering the manipulation of linguistic and visual material in the missionary context the students will also be asked to think about how these texts, languages, and images are mediated by the mendicant friars. Furthermore, consideration of audience and reception must be taken into consideration. Monastic murals and Testerian catechisms were designed to be seen and used by an indigenous population that was largely non-literate. Oral exegesis and visual imagery were key parts of the spread of Christianity throughout the New World.<br>
 
 
-
+<br>
 <!-- accordion usage markup -->
-<h5>Reading and Assignments
+<br><h5>Reading and Assignments
 <br>
 <br>
 <div class="row">
@@ -28,14 +28,16 @@ body {
       <div class="tab-content">
         Jeanette Peterson, "Image/Texts in Sixteenth Century Mexican Murals (A Devil in the Details)," 1-21.<br>
         <br>
-        Joanne Rappaport and Tom Cummins, "Introduction" in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 1-22..
+        Joanne Rappaport and Tom Cummins, "Introduction" in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 1-22.
       </div>
     </div>
       <div class="tab">
         <input type="checkbox" id="chck2">
         <label class="tab-label" for="chck2">WED: Monastic Murals in the Andes</label>
         <div class="tab-content">
-          Joanne Rappaport and Tom Cummins, "Colonial Images in the New Kingdom of Granada," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 85-102.
+          Joanne Rappaport and Tom Cummins, "Colonial Images in the New Kingdom of Granada," in Beyond the Lettered City: Indigenous Literacies in the Northern Andes, 85-102.<br>
+          <br>
+          Ananda Cohen Suarez. “Painting Andean Liminalities at the Church of Andahuaylillas, Cuzco, Peru.” Colonial Latin American Review 22, no. 3 (2013): 369-399.
         </div>
       </div>
       <div class="tab">

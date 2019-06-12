@@ -11,10 +11,10 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>The first of two lectures focus on the reorganization of colonial towns into reducciones. Rappaport and Cummins examine the relationship between language, visuality, and space in the restructuring of colonial towns into grids with the parish church at the physical and symbolic center of the community.  Reducciones were a means by which Spanish authorities sought to exert control over indigenous communities. Cummins and Rappaport link the transformation of architectural/civic space to “alphabetic space” in notarial records where social order within the reducciones were arranged on the written page. The assigned reading from The Lettered City by Angel Rama provides a theoretical ground for examining the reordering of space. Rama posits that rationalizing towns and cities through the implementation of a grid reflected a vision of the future and reproduced/confirmed desired social orders and that writing/visually planning such restructuring was a fundamental part of this design. Is the shift a mediated translation from paper to physical reality?<br>
 
 
-
+<br>
 <!-- accordion usage markup -->
 
 <br><h5>Reading and Assignments

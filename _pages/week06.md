@@ -11,10 +11,10 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>The next lectures will focus on the role of notaries in colonial Latin American civic administration. Drawing heavily from the work of Kathryn Burns on the history and function of notaries in early modern colonial settings, the class will turn towards how legal writing was a mediated form of communication. By looking at archival documents made available through online resources such as Neogranadina the students will consider the materiality of the archive. These themes will include: how notarial documents were created, who created them and for what purpose, the proximity of notaries to institutions of power. By introducing notaries and their archives into an art history class on systems and practices of writing and knowledge production in colonial Latin America students will be asked to consider broader questions concerning where topics like this could fit. The materiality of the archive will enable us to talk not only about colonial political structures, but the various technologies and skills that aided in maintaining the large bureaucracy of the Spanish colonial empire.<br>
 
 
-
+<br>
 <!-- accordion usage markup -->
 
 <br><h5>Reading and Assignments
