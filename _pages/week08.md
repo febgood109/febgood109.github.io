@@ -3,7 +3,7 @@ layout: page
 title: The History of the Book in Colonial Latin America
 subtitle:
 description:
-background: 'img/posts/Mexicanus3.jpg'
+background: 'img/posts/NCBG_AtahBook.jpg'
 ---
 <style>
 body {
@@ -63,21 +63,13 @@ body {
 <a href="#img4">
     <img src="/img/posts/NCBG_AyalaBook.jpg" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Nebrija.jpg" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/LienzoQ1.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Nebrija2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
-      <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/Nebrija3.png" class="thumbnail" style="width:150px;">
 <a href="#img8">
-      <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:150px;">
-<a href="#img10">
-      <img src="/img/posts/quipu1.jpg" class="thumbnail" style="width:150px;">
-<a href="#img11">
-      <img src="/img/posts/quipu3.jpg" class="thumbnail" style="width:150px;">
-<a href="#img12">
-      <img src="/img/posts/quipu2.jpg" class="thumbnail" style="width:150px;">
-<a href="#img9">
-      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:150px;">
+
 
 
 <!-- lightbox container hidden with CSS -->
@@ -98,33 +90,13 @@ body {
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">
-      <img src="img/posts/LienzoQ2.jpg">
+      <img src="img/posts/Nebrija.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img6">
-      <img src="img/posts/LienzoQ1.jpg">
+      <img src="img/posts/Nebrija2.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img7">
-      <img src="img/posts/Uncu_DO.jpg">
+      <img src="img/posts/Nebrija3.png">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img8">
-      <img src="img/posts/Uncu_MoA.jpg">
-      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img9">
-      <img src="img/posts/NCBG_Khipu.jpg">
-      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img10">
-      <img src="img/posts/quipu1.jpg">
-      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img11">
-      <img src="img/posts/quipu3.jpg">
-      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img12">
-      <img src="img/posts/quipu2.jpg">
-      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico

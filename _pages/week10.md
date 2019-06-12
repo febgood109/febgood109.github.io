@@ -3,7 +3,7 @@ layout: page
 title: The Nueva Corónica y Buen Gobierno of Felipe Guaman Poma de Ayala
 subtitle:
 description:
-background: 'img/posts/Mexicanus3.jpg'
+background: 'img/posts/NCBG_AyalaBook.jpg'
 ---
 <style>
 body {

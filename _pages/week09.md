@@ -3,7 +3,7 @@ layout: page
 title: Printed Books and Painted Manuscripts
 subtitle:
 description:
-background: 'img/posts/Mexicanus3.jpg'
+background: 'img/posts/FCXII01.jpg'
 ---
 <style>
 body {
@@ -65,44 +65,52 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/FCPrologue.png" class="thumbnail" style="width:150px;">
 <a href="#img2">
-    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
-<a href="#img3">
-    <img src="/img/posts/FCXII01.jpg" class="thumbnail" style="width:200px;">
-<a href="#img4">
-    <img src="/img/posts/Cholula.jpg" class="thumbnail" style="width:200px;">
-<a href="#img5">
-    <img src="/img/posts/Mexicanus2.jpg" class="thumbnail" style="width:200px;">
-<a href="#img6">
-    <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:200px;">
+    <img src="/img/posts/FC9Paper.png" class="thumbnail" style="width:150px;">
 
+<a href="#img3">
+    <img src="/img/posts/FC12Front.png" class="thumbnail" style="width:150px;">
+<a href="#img7">
+  <img src="/img/posts/FCXII01.jpg" class="thumbnail" style="width:150px;">
+
+<a href="#img4">
+    <img src="/img/posts/FC122.png" class="thumbnail" style="width:150px;">
+
+<a href="#img5">
+    <img src="/img/posts/FC12Arrive.png" class="thumbnail" style="width:150px;">
+<a href="#img6">
+    <img src="/img/posts/Printshop.png" class="thumbnail" style="width:150px;">
 
 <!-- lightbox container hidden with CSS -->
 
+<a href="#_" class="lightbox" id="img1">
+      <img src="img/posts/FCPrologue.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+
 <a href="#_" class="lightbox" id="img2">
-      <img src="img/posts/Mexicanus2.jpg">
-        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+      <img src="img/posts/FE9Paper.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-        <a href="#_" class="lightbox" id="img1">
-              <img src="img/posts/NCBG_Khipu.jpg">
-                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+  <a href="#_" class="lightbox" id="img3">        
+      <img src="img/posts/FC12Front.png">
+      <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
-                <a href="#_" class="lightbox" id="img3">        
-                      <img src="img/posts/img/posts/FCXII01.jpg.jpg">
-                        <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img4">
+      <img src="img/posts/FC122.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-                        <a href="#_" class="lightbox" id="img4">
-                              <img src="img/posts/Cholula.jpg">
-                                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img5">
+      <img src="img/posts/FC12Arrive.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-                                <a href="#_" class="lightbox" id="img5">
-                                      <img src="img/posts/Mexicanus2.jpg">
-                                        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img6">
+      <img src="img/posts/Printshop.png">
+      <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
-                                        <a href="#_" class="lightbox" id="img6">
-                                              <img src="img/posts/NCBG_Khipu.jpg">
-                                                <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+<a href="#_" class="lightbox" id="img7">
+      <img src="/img/posts/FCXII01.jpg">
+
 </a>
 <br>
 
