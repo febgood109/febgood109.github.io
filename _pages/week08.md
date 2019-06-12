@@ -55,13 +55,13 @@ body {
 <br>
 <!-- thumbnail image wrapped in a link -->
 <a href="#img1">
-    <img src="/img/posts/Boturini1.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/NCBG_AtahBook.jpg" class="thumbnail" style="width:150px;">
 <a href="#img2">
-    <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/CodexFMOpen.jpg" class="thumbnail" style="width:150px;">
 <a href="#img3">
-    <img src="img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
+    <img src="img/posts/MendozaOpen.jpg" class="thumbnail" style="width:150px;">
 <a href="#img4">
-    <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/NCBG_AyalaBook.jpg" class="thumbnail" style="width:150px;">
 <a href="#img5">
     <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img6">
@@ -83,18 +83,18 @@ body {
 <!-- lightbox container hidden with CSS -->
 
 <a href="#_" class="lightbox figcaption" id="img1">
-      <img src="img/posts/Boturini1.jpg">
+      <img src="img/posts/AtahBook.jpg">
 
 <a href="#_" class="lightbox" id="img2">
-      <img src="/img/posts/Boturini2.jpg">
+      <img src="/img/posts/CodexFMOpen.jpg">
         <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.jpeg>
+      <img src="/img/posts/MendozaOpen.jpg>
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
-      <img src="img/posts/Mexicanus1617.jpeg">
+      <img src="img/posts/NCBG_AyalaBook.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">
