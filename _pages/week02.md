@@ -10,11 +10,11 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>Elizabeth Boone Hill argues that the epistemological definition of what constitutes a “writing system” should be broadened to include methods of recording information that are not bound to alphabetic scripts.  In the precolonial and colonial Latin American contexts, Boone extends the definition to include Aztec and Mexica pictographic languages and Inca khipus. She contends that because these methods of recording information, whether inscribed (pictographic) or material (khipus), operate within established systems of meaning and adhere to (seemingly) standardized conventions that they qualify as systems of “writing.” I encourage students to think through how these processes work when analyzing both the production (the action of recording information by various means) and reception (the visual and material records) of a wide range of works. During this week we will also explore the question: what are the limitations of reading material and visual culture? <br>
 
----
+<br>
 <!-- accordion usage markup -->
-<h5>Reading and Assignments<h5>
+<br><h5>Reading and Assignments<h5>
 <br>
 
 

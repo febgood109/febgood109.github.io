@@ -11,12 +11,11 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>The second part of the course is designed to demonstrate how language, writing, and the production of written and visual materials functioned as a part of religious conversion and imperial strategies control. The concept of translation will be foregrounded and students will read selections from Joseph Errington’s Linguistics in a Colonial World and Vicente Rafael’s Contracting Colonialism that examine how languages operate in colonial “contact zones” where two linguistically disparate cultures meet and subsequently attempt to make sense of the others’ methods of communication. Themes related to translation in mendicant practices will resume in the next class with an analysis of Testerian catechisms that were produced as didactic tools by Franciscan friars in sixteenth-century Mexico. These small works functioned as tools for teaching the liturgy to indigenous converts. At the end of the week we will return to the themes of orality and literacy and means through which to look at a selection of manuscript and printed works made during the colonial period.<br>
 
----
-<!-- accordion usage markup -->
 <br>
-<h5>Reading and Assignments<h5>
+<!-- accordion usage markup -->
+<br><h5>Reading and Assignments<h5>
 <br>
 
 <div class="row">

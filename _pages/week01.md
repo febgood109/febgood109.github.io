@@ -11,10 +11,11 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>    Following a brief introduction to the course and a refresher on the Spanish Conquest, we will dive into questions surrounding how writing functions and its function as a technology. “Writing,” as defined by linguistics scholar Walter Ong, is a technological process, governed by systems of codified rules, by which spoken language is transferred into script and committed to a material surface. Ong argues that writing is inextricably bound to the spoken word. Images and objects, even if they belong to a system of standardized codes through which meaning could be determined, are dependent on spoken and written language for explanation; they cannot stand as independent systems of writing or knowledge production. By framing writing as a technology we can discuss what tools are required to produce written works, both in terms of tools such as paper, brushes, pens, printing presses, etc., but also the specialized skills held by certain individuals. <br>
 
+<br>
 <!-- accordion usage markup -->
-<h5>Reading and Assignments<h5>
+<br><h5>Reading and Assignments<h5>
 <br>
 
 
