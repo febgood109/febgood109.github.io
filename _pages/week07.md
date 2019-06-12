@@ -3,7 +3,7 @@ layout: page
 title: Mapping the New World
 subtitle:
 description:
-background: 'img/posts/Mexicanus3.jpg'
+background: '/img/posts/Guaxtepec.jpg'
 ---
 <style>
 body {
@@ -58,77 +58,67 @@ body {
 <h5>Images<h5>
 <br>
 <!-- thumbnail image wrapped in a link -->
-<a href="#img1">
-    <img src="/img/posts/Boturini1.jpg" class="thumbnail" style="width:150px;">
-<a href="#img2">
-    <img src="/img/posts/Boturini2.jpg" class="thumbnail" style="width:150px;">
+
 <a href="#img3">
-    <img src="img/posts/Mexicanus1.jpeg" class="thumbnail" style="width:150px;">
+    <img src="img/posts/rgletter.jpg" class="thumbnail" style="width:150px;">
+<a href="#img1">
+    <img src="/img/posts/Guaxtepec.jpg" class="thumbnail" style="width:150px;">
 <a href="#img4">
-    <img src="/img/posts/Mexicanus1617.jpeg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/zapotitlan.jpg" class="thumbnail" style="width:150px;">
 <a href="#img5">
-    <img src="/img/posts/LienzoQ2.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/Culhuacan.png" class="thumbnail" style="width:150px;">
 <a href="#img6">
-    <img src="/img/posts/LienzoQ1.jpg" class="thumbnail" style="width:150px;">
+    <img src="/img/posts/cuzcatlan.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
-      <img src="/img/posts/Uncu_DO.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/atengo.jpg" class="thumbnail" style="width:150px;">
 <a href="#img8">
-      <img src="/img/posts/Uncu_MoA.jpg" class="thumbnail" style="width:150px;">
-<a href="#img10">
-      <img src="/img/posts/quipu1.jpg" class="thumbnail" style="width:150px;">
-<a href="#img11">
-      <img src="/img/posts/quipu3.jpg" class="thumbnail" style="width:150px;">
-<a href="#img12">
-      <img src="/img/posts/quipu2.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/atitlan.jpg" class="thumbnail" style="width:150px;">
 <a href="#img9">
-      <img src="/img/posts/NCBG_Khipu.jpg" class="thumbnail" style="width:150px;">
+      <img src="/img/posts/teozacoalco.jpg" class="thumbnail" style="width:150px;">
+<a href="#img10">
+      <img src="/img/posts/Cholula.jpg" class="thumbnail" style="width:150px;">
+<a href="#img11">
+      <img src="/img/posts/Cempoala.jpg" class="thumbnail" style="width:150px;">
+
 
 
 <!-- lightbox container hidden with CSS -->
 
 <a href="#_" class="lightbox figcaption" id="img1">
-      <img src="img/posts/Boturini1.jpg">
-
-<a href="#_" class="lightbox" id="img2">
-      <img src="/img/posts/Boturini2.jpg">
-        <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
+      <img src="/img/posts/Guaxtepec.jpg">
 
 <a href="#_" class="lightbox" id="img3">        
-      <img src="/img/posts/Mexicanus1.jpeg>
+      <img src="img/posts/rgletter.jpg>
       <figcaption><h6>Florentine Codex<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img4">
-      <img src="img/posts/Mexicanus1617.jpeg">
+      <img src="img/posts/zapotitlan.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img5">
-      <img src="img/posts/LienzoQ2.jpg">
+      <img src="img/posts/Culhuacan.png">
       <figcaption><h6>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img6">
-      <img src="img/posts/LienzoQ1.jpg">
+      <img src="img/posts/cuzcatlan.jpg">
       <figcaption><h6>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img7">
-      <img src="img/posts/Uncu_DO.jpg">
+      <img src="img/posts/atengo.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img8">
-      <img src="img/posts/Uncu_MoA.jpg">
+      <img src="img/posts/atitlan.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img9">
-      <img src="img/posts/NCBG_Khipu.jpg">
+      <img src="img/posts/teozacoalco.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img10">
-      <img src="img/posts/quipu1.jpg">
+      <img src="img/posts/Cholula.jpg">
       <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
 
 <a href="#_" class="lightbox" id="img11">
-      <img src="img/posts/quipu3.jpg">
+      <img src="img/posts/Cempoala.jpg">
       <figcaption><h6>Codex Mexicanus<br>16th Century<br>Mexico
-
-<a href="#_" class="lightbox" id="img12">
-      <img src="img/posts/quipu2.jpg">
-      <figcaption><Codex Mexicanus<br>16th Century<br>Mexico
