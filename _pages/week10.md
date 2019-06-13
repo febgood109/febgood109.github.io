@@ -14,7 +14,7 @@ body {
 <h4>The final week of class will focus on Felipe Guaman Poma de Ayala’s Nueva Corónica. Illustrations from Guaman Poma’s book will feature throughout the course and thus the students should already be familiar with parts of the overall work. We will discuss in greater detail the intended audience for the Nueva Corónica (King Philip III of Spain) and the motivations underlying its production. The Nueva Corónica ties together many of the themes covered throughout the course. Students will be asked to consider why Guaman Poma chose to produce the work as a manuscript, rather than a printed work, how the images relate to the text (especially in comparison with the Florentine Codex discussed the week prior). <br>
 
 
-
+<br>
 <!-- accordion usage markup -->
 <br><h5>Reading and Assignments
 <br>
