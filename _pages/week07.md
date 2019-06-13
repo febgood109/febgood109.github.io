@@ -11,10 +11,10 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>This week the course moves to the production of maps in colonial Latin America as part of the Relaciones Geográficas--a questionnaire issued at the request of King Philip II that, according to Barbara Mundy, “was designed to document human history and geography.”  Maps are objects that, in modern parlance, are frequently referred to as being “readable.” What does that mean functionally, and how might the principles of reading a map work when we are confronted with cartographic productions that do not follow standard project models? The conceptual link between acquiring information about distant parts of the world through text and image is a guiding motivation behind the Relaciones. The indigenous painters responsible for creating these local maps used a combination of native pictographic writing, alphabetic script, and modes of depicting geography that have roots in both Amerindian and European traditions. The students will be asked to consider how the blending of these disparate traditions plays a role in our understanding of how space is represented.<br>
 
 
-
+<br>
 <!-- accordion usage markup -->
 
 <br><h5>Reading and Assignments

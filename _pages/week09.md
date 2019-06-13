@@ -11,10 +11,10 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
+<h4>The class then moves to the history of the printing press in colonial Latin America beginning with the founding of the Mexico City office of the Cromberger family press in 1539. Selection(s) from Irving Leonard’s Books of the Brave that narrate the operational history of the press will be assigned. Students will gain an understanding of how early modern commercial printing presses operated and the types of works that were most frequently published in the colonial world. Leonard’s book illustrates aspects of the book trade including censorship and the audience for popular fiction. Censorship will be discussed as it relates to how the laws concerning banned books were enforced (or not enforced), and who the audience for popular fiction might have been. The discussion of the audience for written texts and visual images the question of literacy (in the modern sense of being able to read and write) is often posed. Who was the audience for books being published and disseminated across colonial Latin America? The analysis of the Florentine Codex will draw on scholarship from Diana Magaloni Kerpel, and Kevin Terraciano.  The class will consider the multivocal narrative present in the codex -- an aspect that both Magaloni and Terraciano investigate heavily. Books, in their final state, often appear as flattened forms of narrative. We are trained to see the text and images as a single cohesive unit and often there is an allusion of singular authorship. The multigenerational production of the Florentine Codex Book XII will be the center of class discussions.<br>
 
 
-
+<br>
 <!-- accordion usage markup -->
 
 <br><h5>Reading and Assignments
@@ -110,8 +110,3 @@ body {
 
 <a href="#_" class="lightbox" id="img7">
       <img src="/img/posts/FCXII01.jpg">
-
-</a>
-<br>
-
-<footer>

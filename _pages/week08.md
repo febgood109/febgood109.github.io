@@ -11,10 +11,8 @@ body {
 }
 </style>
 ---
-<h4>This is where the description of the week will go<br>
-
-
-
+<h4>The fourth and final part of the class turns to the history of the book and in colonial Latin America. First, students will consider what a book is. Much like the questions about writing as a process and a product of communication that foregrounded the beginning of the course, we will consider how writing functions within the context of “book.” In his short essay, “The Book as a Symbol,” Brian Cummings argues that as material objects books simultaneously contain their readers and authors, they record memories and events, and “transform immaterial concepts into concrete forms.” Cumming’s theorizing about what the physical presence of books symbolizes, in several ways, parallels ideas surrounding the mediation of oral speech in writing discussed at the beginning of the course. This essay will be assigned as a complement to Gonzalo Lamana’s essay, “Of Books, Popes, and Huacas; or, The Dilemmas of Being Christian.” the latter examines, in part, the various accounts of the presentation of a Christian breviary to Atahualpa at Cajamarca.<br> <br>Themes concerning what books symbolize, their production and audience, and their ability to and function in transmitting ideas and information is reinforced with an essay by Walter D. Mignolo. In “Signs and Their Transmission: The Question of the Book in the New World.” Mignolo traces the development of “the book” from the precolonial through colonial period in Latin America. A large portion of the reading focuses on how books were physically produced, and different formats that were popular during the early modern period. He then moves to the social role of books in colonial society with an emphasis on the translations between indigenous (Mesoamerican) and European forms of writing and producing texts. Mignolo argues that the “Western book” (as opposed to indigenous codices} became a symbol of the letter and a container for human knowledge. Books were vehicles for enacting structures of colonial power.<br>
+<br>
 <!-- accordion usage markup -->
 <br><h5>Reading and Assignments
 <br>
@@ -68,7 +66,7 @@ body {
     <img src="/img/posts/Nebrija2.jpg" class="thumbnail" style="width:150px;">
 <a href="#img7">
       <img src="/img/posts/Nebrija3.png" class="thumbnail" style="width:150px;">
-<a href="#img8">
+
 
 
 
